@@ -10,4 +10,6 @@ Tech Stack: Android Studio, Java, Firebase
 
 Installation Steps:
 1) Download the zip file.
-2) 
+2) Unzip and open the folder
+3) Open in Android Studio
+4) Run it using virtual device or USB debugging on phone
